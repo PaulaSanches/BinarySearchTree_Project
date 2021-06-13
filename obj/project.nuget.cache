@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DDhfAFYcbARB70n6RvYiIcwgMyox63tbTH0QanNHMquBCFH6u6DBuE+FVVWkr9wy9GQg6/uV54xKR2uzZtu8Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paula Sanches\\Documents\\GitHub\\BinarySearchTree_Project\\BinarySearchTree_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paula Sanches\\.nuget\\packages\\csfml\\2.5.0\\csfml.2.5.0.nupkg.sha512",
+    "C:\\Users\\Paula Sanches\\.nuget\\packages\\sfml.audio\\2.5.0\\sfml.audio.2.5.0.nupkg.sha512",
+    "C:\\Users\\Paula Sanches\\.nuget\\packages\\sfml.graphics\\2.5.0\\sfml.graphics.2.5.0.nupkg.sha512",
+    "C:\\Users\\Paula Sanches\\.nuget\\packages\\sfml.net\\2.5.0\\sfml.net.2.5.0.nupkg.sha512",
+    "C:\\Users\\Paula Sanches\\.nuget\\packages\\sfml.system\\2.5.0\\sfml.system.2.5.0.nupkg.sha512",
+    "C:\\Users\\Paula Sanches\\.nuget\\packages\\sfml.window\\2.5.0\\sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
